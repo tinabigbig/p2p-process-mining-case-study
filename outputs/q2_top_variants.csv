@@ -1,0 +1,11 @@
+activity,cases,share_of_cases,cumulative_share
+Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,50286,0.19982356587668684,0.19982356587668684
+Create Purchase Order Item > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Clear Invoice,30798,0.12238329121167327,0.3222068570883601
+Create Purchase Order Item > Record Goods Receipt,12214,0.048535278877179594,0.37074213596553973
+Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Remove Payment Block > Clear Invoice,11383,0.04523309967733219,0.4159752356428719
+Create Purchase Order Item > Receive Order Confirmation > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Clear Invoice,9694,0.0385214502567037,0.4544966858995756
+Create Purchase Requisition Item > Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,8921,0.03544974806478788,0.4899464339643635
+Create Purchase Order Item > Vendor creates invoice > Record Invoice Receipt > Record Goods Receipt > Remove Payment Block > Clear Invoice,8835,0.03510800629440656,0.52505444025877
+Create Purchase Order Item > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Remove Payment Block > Clear Invoice,7985,0.03173032600575398,0.556784766264524
+Create Purchase Order Item > Delete Purchase Order Item,5298,0.021052882552095753,0.5778376488166197
+Create Purchase Order Item > Receive Order Confirmation > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,4244,0.016864558994166546,0.5947022078107862

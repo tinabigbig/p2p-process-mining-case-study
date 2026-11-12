@@ -1,0 +1,6 @@
+flag,"items | 3-way match, invoice after GR","items | 3-way match, invoice before GR","po_value_eur | 3-way match, invoice after GR","po_value_eur | 3-way match, invoice before GR"
+no_goods_trace,0,176,0.0,383394.0
+ok,9655,172901,150733102.0,580120915.0
+paid_before_goods,0,89,0.0,1128598.0
+receipt_missing_cancel,1,389,334.0,241461.0
+receipts_cancelled,0,81,0.0,459195.0

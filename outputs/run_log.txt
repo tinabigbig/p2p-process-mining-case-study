@@ -1,0 +1,45 @@
+Cleaning: {'events_in': 1595923, 'cases_in': 251734, 'cases_dropped_bad_dates': 82, 'events_out': 1593335, 'cases_out': 251652}
+Q1 category mix
+                                  cases   events  share_of_cases
+item_category                                                  
+3-way match, invoice before GR  220948  1234237        0.877990
+3-way match, invoice after GR    15162   317116        0.060250
+Consignment                      14498    36084        0.057611
+2-way match                       1044     5898        0.004149
+Q2 distinct paths: 11,948; top 10 cover 59.5%
+Q3 rework by category
+                                  cases  rework_cases  rework_rate
+item_category                                                    
+3-way match, invoice before GR  220948         37261     0.168641
+3-way match, invoice after GR    15162          2974     0.196148
+Consignment                      14498          1930     0.133122
+2-way match                       1044            25     0.023946
+Q4 paid items by goods-receipt group
+                         items | 3-way match, invoice after GR  ...  po_value_eur | 3-way match, invoice before GR
+flag                                                           ...                                               
+no_goods_trace                                              0  ...                                       383394.0
+ok                                                       9655  ...                                    580120915.0
+paid_before_goods                                           0  ...                                      1128598.0
+receipt_missing_cancel                                      1  ...                                       241461.0
+receipts_cancelled                                          0  ...                                       459195.0
+[5 rows x 4 columns]
+invoice recorded before goods, 3-way match, invoice before GR: 8.2%
+invoice recorded before goods, 3-way match, invoice after GR: 0.0%
+Q5 cycle days
+                                  cases     median         p90
+item_category                                                
+3-way match, invoice before GR  173636  77.002431  126.857639
+3-way match, invoice after GR     9656  77.636458  118.991319
+2-way match                        303   7.047222   37.240417 
+                     cases     median
+has_payment_block                   
+False              133049  72.170139
+True                50546  85.503472
+Value range
+           touches   total_hours  avoidable_hours  avoidable_cost_eur
+scenario                                                            
+low        113248   9437.333333      2359.333333            106170.0
+base       113248  18874.666667      7549.866667            452992.0
+high       113248  28312.000000     15571.600000           1167870.0
+Q7 conformance
+ {'cases': 220948, 'fitting_cases': 182794, 'fitting_share': 0.8273168347303438, 'log_fitness': 0.9757137509099021}

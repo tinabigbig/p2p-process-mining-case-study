@@ -1,0 +1,737 @@
+case_id,flag,item_category,spend_area,po_value_eur,t_first_gr,t_first_clear,n_gr,n_cancel_gr,n_gr_at_clear,n_cancel_gr_at_clear
+4507039005_00010,paid_before_goods,"3-way match, invoice before GR",Titanium Dioxides,358488.0,2018-11-22 17:48:00,2018-11-08 14:43:00,1.0,0.0,0.0,0.0
+4507039006_00010,paid_before_goods,"3-way match, invoice before GR",Titanium Dioxides,358488.0,2018-11-22 17:48:00,2018-11-08 14:43:00,1.0,0.0,0.0,0.0
+4507034826_00010,paid_before_goods,"3-way match, invoice before GR",Latex & Monomers,45123.0,2018-07-10 11:39:00,2018-06-28 11:55:00,2.0,0.0,0.0,0.0
+4507034839_00010,paid_before_goods,"3-way match, invoice before GR",Latex & Monomers,45123.0,2018-06-21 16:30:00,2018-06-21 13:04:00,1.0,0.0,0.0,0.0
+4507018652_00010,paid_before_goods,"3-way match, invoice before GR",Latex & Monomers,43096.0,2018-04-03 06:17:00,2018-03-29 10:11:00,1.0,0.0,0.0,0.0
+4507004889_00010,paid_before_goods,"3-way match, invoice before GR",,39989.0,2018-02-12 17:22:00,2018-02-09 16:24:00,1.0,0.0,0.0,0.0
+4508068561_00010,paid_before_goods,"3-way match, invoice before GR",Additives,33396.0,2019-01-07 13:40:00,2019-01-02 13:06:00,1.0,0.0,0.0,0.0
+4508068170_00040,paid_before_goods,"3-way match, invoice before GR",Sales,20005.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4508046096_00010,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,16253.0,2018-08-02 10:35:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4507009301_00010,paid_before_goods,"3-way match, invoice before GR",Pigments & Colorants,15352.0,2018-06-05 09:55:00,2018-04-26 13:38:00,2.0,0.0,0.0,0.0
+4508045877_00020,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,13856.0,2018-08-02 10:33:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4507001697_00010,paid_before_goods,"3-way match, invoice before GR",Packaging,9420.0,2018-04-09 17:16:00,2018-03-29 15:09:00,2.0,0.0,0.0,0.0
+4508045877_00010,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,9006.0,2018-08-02 10:33:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4508065889_00010,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,8802.0,2019-01-17 13:26:00,2019-01-04 23:59:00,1.0,0.0,0.0,0.0
+4507027348_00010,paid_before_goods,"3-way match, invoice before GR",Additives,7794.0,2018-05-14 09:57:00,2018-05-11 11:11:00,1.0,0.0,0.0,0.0
+4507014673_00010,paid_before_goods,"3-way match, invoice before GR",Sales,7326.0,2018-09-13 11:23:00,2018-08-23 13:39:00,1.0,0.0,0.0,0.0
+4508044475_00010,paid_before_goods,"3-way match, invoice before GR",Additives,6365.0,2018-08-02 15:38:00,2018-08-02 12:18:00,1.0,0.0,0.0,0.0
+4507036089_00010,paid_before_goods,"3-way match, invoice before GR",Packaging,6304.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507016299_00030,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,5983.0,2018-06-26 10:27:00,2018-06-21 12:42:00,1.0,0.0,0.0,0.0
+4507018763_00020,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,5928.0,2018-05-24 17:10:00,2018-05-24 13:34:00,1.0,0.0,0.0,0.0
+4507002842_00020,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,5856.0,2018-03-09 09:52:00,2018-03-08 13:21:00,12.0,0.0,0.0,0.0
+4507016299_00010,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,5293.0,2018-06-26 10:34:00,2018-06-21 12:42:00,1.0,0.0,0.0,0.0
+4507016299_00020,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,5293.0,2018-06-26 10:30:00,2018-06-21 12:42:00,1.0,0.0,0.0,0.0
+4508046096_00020,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,4946.0,2018-08-02 10:35:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4508068170_00020,paid_before_goods,"3-way match, invoice before GR",Sales,3702.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4508068170_00010,paid_before_goods,"3-way match, invoice before GR",Sales,3543.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4507028436_00050,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,3117.0,2018-07-11 18:48:00,2018-06-28 14:05:00,1.0,0.0,0.0,0.0
+4507028436_00030,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,2533.0,2018-07-11 18:48:00,2018-05-31 12:33:00,1.0,0.0,0.0,0.0
+4507036089_00030,paid_before_goods,"3-way match, invoice before GR",Packaging,2390.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00040,paid_before_goods,"3-way match, invoice before GR",Packaging,2341.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508068170_00070,paid_before_goods,"3-way match, invoice before GR",Sales,2338.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4508068170_00050,paid_before_goods,"3-way match, invoice before GR",Sales,2135.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4507016320_00020,paid_before_goods,"3-way match, invoice before GR",Additives,2067.0,2018-05-09 08:14:00,2018-04-19 09:45:00,1.0,0.0,0.0,0.0
+4507017560_00010,paid_before_goods,"3-way match, invoice before GR",Packaging,1739.0,2018-11-16 11:13:00,2018-06-07 13:12:00,1.0,0.0,0.0,0.0
+4507017560_00020,paid_before_goods,"3-way match, invoice before GR",Packaging,1533.0,2018-11-16 11:13:00,2018-06-07 13:12:00,1.0,0.0,0.0,0.0
+4508068170_00030,paid_before_goods,"3-way match, invoice before GR",Sales,1426.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4507028436_00010,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,1385.0,2018-07-11 18:48:00,2018-05-31 12:33:00,1.0,0.0,0.0,0.0
+4507036089_00050,paid_before_goods,"3-way match, invoice before GR",Packaging,1334.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508046096_00030,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,1272.0,2018-08-02 10:35:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4507002842_00050,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,1130.0,2018-03-12 07:38:00,2018-03-08 13:21:00,1.0,0.0,0.0,0.0
+4507012511_00060,paid_before_goods,"3-way match, invoice before GR",Packaging,1123.0,2018-05-23 15:24:00,2018-04-26 11:14:00,1.0,0.0,0.0,0.0
+4507036089_00100,paid_before_goods,"3-way match, invoice before GR",Packaging,1085.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508056956_00050,paid_before_goods,"3-way match, invoice before GR",Sales,811.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4508056956_00040,paid_before_goods,"3-way match, invoice before GR",Sales,723.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00110,paid_before_goods,"3-way match, invoice before GR",Packaging,675.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508056956_00080,paid_before_goods,"3-way match, invoice before GR",Sales,673.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00060,paid_before_goods,"3-way match, invoice before GR",Packaging,658.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507016312_00010,paid_before_goods,"3-way match, invoice before GR",Additives,645.0,2018-04-20 10:04:00,2018-04-20 09:10:00,1.0,0.0,0.0,0.0
+4508046096_00040,paid_before_goods,"3-way match, invoice before GR",Trading & End Products,636.0,2018-08-02 10:35:00,2018-08-01 13:12:00,1.0,0.0,0.0,0.0
+4507036089_00070,paid_before_goods,"3-way match, invoice before GR",Packaging,614.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00170,paid_before_goods,"3-way match, invoice before GR",Packaging,614.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00020,paid_before_goods,"3-way match, invoice before GR",Packaging,597.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00080,paid_before_goods,"3-way match, invoice before GR",Packaging,597.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508056956_00070,paid_before_goods,"3-way match, invoice before GR",Sales,497.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00090,paid_before_goods,"3-way match, invoice before GR",Packaging,452.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508068170_00060,paid_before_goods,"3-way match, invoice before GR",Sales,442.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4508068170_00080,paid_before_goods,"3-way match, invoice before GR",Sales,442.0,2018-11-28 14:25:00,2018-11-28 11:42:00,1.0,0.0,0.0,0.0
+4507041813_00010,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,352.0,2018-08-13 08:50:00,2018-08-09 08:01:00,1.0,0.0,0.0,0.0
+4507041813_00020,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,352.0,2018-08-13 08:50:00,2018-08-09 08:01:00,1.0,0.0,0.0,0.0
+4508056956_00020,paid_before_goods,"3-way match, invoice before GR",Sales,339.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00130,paid_before_goods,"3-way match, invoice before GR",Packaging,294.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507041813_00030,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,282.0,2018-08-13 08:50:00,2018-08-09 08:01:00,1.0,0.0,0.0,0.0
+2000013508_00001,paid_before_goods,"3-way match, invoice before GR",Enterprise Services,278.0,2018-08-17 09:43:00,2018-06-14 15:01:00,1.0,0.0,0.0,0.0
+4507036089_00200,paid_before_goods,"3-way match, invoice before GR",Packaging,271.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00290,paid_before_goods,"3-way match, invoice before GR",Packaging,271.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00140,paid_before_goods,"3-way match, invoice before GR",Packaging,265.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00160,paid_before_goods,"3-way match, invoice before GR",Packaging,230.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507013684_00100,paid_before_goods,"3-way match, invoice before GR",Sales,223.0,2018-07-17 11:23:00,2018-04-05 15:48:00,1.0,0.0,0.0,0.0
+4507036089_00180,paid_before_goods,"3-way match, invoice before GR",Packaging,214.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00190,paid_before_goods,"3-way match, invoice before GR",Packaging,214.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00270,paid_before_goods,"3-way match, invoice before GR",Packaging,203.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508054646_00260,paid_before_goods,"3-way match, invoice before GR",Sales,193.0,2018-10-09 07:54:00,2018-09-26 17:25:00,1.0,0.0,0.0,0.0
+4507025541_00080,paid_before_goods,"3-way match, invoice before GR",Sales,168.0,2018-07-10 10:57:00,2018-07-05 14:11:00,1.0,0.0,0.0,0.0
+4507036089_00240,paid_before_goods,"3-way match, invoice before GR",Packaging,159.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4508056956_00010,paid_before_goods,"3-way match, invoice before GR",Sales,154.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00250,paid_before_goods,"3-way match, invoice before GR",Packaging,150.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00260,paid_before_goods,"3-way match, invoice before GR",Packaging,147.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00120,paid_before_goods,"3-way match, invoice before GR",Packaging,138.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507036089_00280,paid_before_goods,"3-way match, invoice before GR",Packaging,138.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507028436_00020,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,129.0,2018-07-11 18:48:00,2018-05-31 12:33:00,1.0,0.0,0.0,0.0
+4507028436_00040,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,129.0,2018-07-11 18:48:00,2018-05-31 12:33:00,1.0,0.0,0.0,0.0
+4508056956_00090,paid_before_goods,"3-way match, invoice before GR",Sales,120.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507036089_00230,paid_before_goods,"3-way match, invoice before GR",Packaging,111.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507003243_00110,paid_before_goods,"3-way match, invoice before GR",Packaging,104.0,2018-06-22 16:55:00,2018-04-26 11:14:00,1.0,0.0,0.0,0.0
+4507036089_00300,paid_before_goods,"3-way match, invoice before GR",Packaging,82.0,2018-09-26 08:34:00,2018-08-02 12:05:00,1.0,0.0,0.0,0.0
+4507011231_00010,paid_before_goods,"3-way match, invoice before GR",Packaging,64.0,2018-10-31 13:37:00,2018-08-03 17:03:00,1.0,0.0,0.0,0.0
+4508056956_00030,paid_before_goods,"3-way match, invoice before GR",Sales,33.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4508056956_00060,paid_before_goods,"3-way match, invoice before GR",Sales,29.0,2018-10-11 07:33:00,2018-10-04 13:19:00,1.0,0.0,0.0,0.0
+4507041813_00050,paid_before_goods,"3-way match, invoice before GR",CAPEX & SOCS,8.0,2018-08-13 10:18:00,2018-08-09 08:01:00,1.0,0.0,0.0,0.0
+4507037839_00010,no_goods_trace,"3-way match, invoice before GR",Latex & Monomers,43665.0,,2018-07-05 09:43:00,0.0,0.0,0.0,0.0
+4507021226_00010,no_goods_trace,"3-way match, invoice before GR",Latex & Monomers,43318.0,,2018-06-28 14:04:00,0.0,0.0,0.0,0.0
+4507011731_00020,no_goods_trace,"3-way match, invoice before GR",Sales,40010.0,,2018-04-23 16:21:00,0.0,0.0,0.0,0.0
+4507012757_00010,no_goods_trace,"3-way match, invoice before GR",Sales,31176.0,,2018-09-10 16:53:00,0.0,0.0,0.0,0.0
+4508063843_00010,no_goods_trace,"3-way match, invoice before GR",Additives,29531.0,,2019-01-14 12:58:00,0.0,0.0,0.0,0.0
+4507011731_00010,no_goods_trace,"3-way match, invoice before GR",Sales,16108.0,,2018-04-23 16:21:00,0.0,0.0,0.0,0.0
+4507030267_00010,no_goods_trace,"3-way match, invoice before GR",Sales,12904.0,,2018-09-19 12:16:00,0.0,0.0,0.0,0.0
+4508063395_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,10496.0,,2019-01-10 15:44:00,0.0,0.0,0.0,0.0
+4508044845_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,8038.0,,2018-09-28 10:27:00,0.0,0.0,0.0,0.0
+4507016299_00040,no_goods_trace,"3-way match, invoice before GR",Sales,7110.0,,2018-06-14 15:01:00,0.0,0.0,0.0,0.0
+4507018574_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,6373.0,,2018-06-28 14:03:00,0.0,0.0,0.0,0.0
+4507029257_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,6373.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4507024561_00020,no_goods_trace,"3-way match, invoice before GR",Marketing,6215.0,,2018-06-14 14:31:00,0.0,0.0,0.0,0.0
+4508043380_00010,no_goods_trace,"3-way match, invoice before GR",Additives,5799.0,,2018-09-28 10:27:00,0.0,0.0,0.0,0.0
+4507006167_00050,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,4516.0,,2018-04-05 15:49:00,0.0,0.0,0.0,0.0
+4507018763_00010,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,4388.0,,2018-05-24 13:34:00,0.0,0.0,0.0,0.0
+4507026595_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,4302.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4508044535_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,4302.0,,2018-09-28 10:27:00,0.0,0.0,0.0,0.0
+4507035078_00010,no_goods_trace,"3-way match, invoice before GR",Additives,4001.0,,2019-01-17 14:40:00,0.0,0.0,0.0,0.0
+4507016732_00010,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,3945.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4507024345_00010,no_goods_trace,"3-way match, invoice before GR",Enterprise Services,3685.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4508050503_00010,no_goods_trace,"3-way match, invoice before GR",Enterprise Services,3124.0,,2019-01-03 16:11:00,0.0,0.0,0.0,0.0
+4508051517_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,3117.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508044178_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,3091.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508044180_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,3091.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4507024561_00010,no_goods_trace,"3-way match, invoice before GR",Marketing,2829.0,,2018-06-14 14:31:00,0.0,0.0,0.0,0.0
+4507020939_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2727.0,,2018-05-24 13:36:00,0.0,0.0,0.0,0.0
+4508051518_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2727.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508064093_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2712.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4507029258_00250,no_goods_trace,"3-way match, invoice before GR",Packaging,2624.0,,2018-08-29 12:18:00,0.0,0.0,0.0,0.0
+4507006167_00060,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,2483.0,,2018-04-05 15:49:00,0.0,0.0,0.0,0.0
+4508069339_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2272.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4508051508_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2208.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508064088_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2065.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4508044183_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2061.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508051998_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,2061.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4507024561_00040,no_goods_trace,"3-way match, invoice before GR",Marketing,1980.0,,2018-06-14 14:31:00,0.0,0.0,0.0,0.0
+4508051516_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,1948.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4507010343_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,1936.0,,2018-06-28 14:04:00,0.0,0.0,0.0,0.0
+4507027945_00010,no_goods_trace,"3-way match, invoice before GR",Sales,1896.0,,2018-07-24 09:05:00,0.0,0.0,0.0,0.0
+4508044521_00010,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,1872.0,,2018-09-06 14:08:00,0.0,0.0,0.0,0.0
+4508071074_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,1652.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4508060646_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,1558.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4508042334_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,1385.0,,2018-07-26 18:09:00,0.0,0.0,0.0,0.0
+4508068462_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,1385.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4507023495_00030,no_goods_trace,"3-way match, invoice before GR",Packaging,1163.0,,2018-10-18 15:31:00,0.0,0.0,0.0,0.0
+4508047123_00030,no_goods_trace,"3-way match, invoice before GR",Sales,1039.0,,2018-10-18 15:32:00,0.0,0.0,0.0,0.0
+4508067616_00020,no_goods_trace,"3-way match, invoice before GR",Enterprise Services,1039.0,,2019-01-10 15:42:00,0.0,0.0,0.0,0.0
+4507004342_00120,no_goods_trace,"3-way match, invoice before GR",Packaging,925.0,,2018-08-21 14:15:00,0.0,0.0,0.0,0.0
+4507037790_00010,no_goods_trace,"3-way match, invoice before GR",Marketing,883.0,,2018-08-21 10:17:00,0.0,0.0,0.0,0.0
+4508060646_00010,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,826.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4507010827_00040,no_goods_trace,"3-way match, invoice before GR",Packaging,785.0,,2018-05-24 10:38:00,0.0,0.0,0.0,0.0
+4507021527_00010,no_goods_trace,"3-way match, invoice before GR",Pigments & Colorants,772.0,,2018-05-04 16:04:00,0.0,0.0,0.0,0.0
+4508071074_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,770.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4508048353_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,753.0,,2018-12-17 11:55:00,0.0,0.0,0.0,0.0
+4508064088_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,744.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4507014580_00030,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,739.0,,2018-03-21 12:02:00,0.0,0.0,0.0,0.0
+4507019052_00090,no_goods_trace,"3-way match, invoice before GR",Sales,716.0,,2018-06-07 13:11:00,0.0,0.0,0.0,0.0
+4508050382_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,701.0,,2018-12-12 15:58:00,0.0,0.0,0.0,0.0
+4507027910_00010,no_goods_trace,"3-way match, invoice before GR",Sales,645.0,,2018-07-24 08:36:00,0.0,0.0,0.0,0.0
+4507015420_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,602.0,,2018-05-24 13:34:00,0.0,0.0,0.0,0.0
+4507013219_00250,no_goods_trace,"3-way match, invoice before GR",Sales,511.0,,2018-07-12 12:55:00,0.0,0.0,0.0,0.0
+4508061306_00160,no_goods_trace,"3-way match, invoice before GR",Sales,456.0,,2019-01-03 16:12:00,0.0,0.0,0.0,0.0
+4508061437_00220,no_goods_trace,"3-way match, invoice before GR",Sales,422.0,,2018-12-03 10:00:00,0.0,0.0,0.0,0.0
+4507030143_00040,no_goods_trace,"3-way match, invoice before GR",Sales,420.0,,2018-07-16 13:32:00,0.0,0.0,0.0,0.0
+4507019736_00280,no_goods_trace,"3-way match, invoice before GR",Sales,414.0,,2018-04-16 15:10:00,0.0,0.0,0.0,0.0
+4507040501_00020,no_goods_trace,"3-way match, invoice before GR",Sales,414.0,,2018-09-06 14:07:00,0.0,0.0,0.0,0.0
+4507024561_00030,no_goods_trace,"3-way match, invoice before GR",Marketing,412.0,,2018-06-14 14:31:00,0.0,0.0,0.0,0.0
+4508050688_00020,no_goods_trace,"3-way match, invoice before GR",Sales,409.0,,2018-10-04 16:50:00,0.0,0.0,0.0,0.0
+4508047474_00030,no_goods_trace,"3-way match, invoice before GR",Sales,402.0,,2018-10-04 16:49:00,0.0,0.0,0.0,0.0
+4507032959_00030,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,397.0,,2018-11-29 16:14:00,0.0,0.0,0.0,0.0
+4507025384_00020,no_goods_trace,"3-way match, invoice before GR",Sales,380.0,,2018-06-13 10:22:00,0.0,0.0,0.0,0.0
+4507025044_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,369.0,,2018-12-13 14:08:00,0.0,0.0,0.0,0.0
+4507004606_00140,no_goods_trace,"3-way match, invoice before GR",Sales,360.0,,2018-03-08 13:20:00,0.0,0.0,0.0,0.0
+4507011640_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,344.0,,2018-06-28 14:04:00,0.0,0.0,0.0,0.0
+4507031277_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,332.0,,2018-09-28 10:26:00,0.0,0.0,0.0,0.0
+4507029010_00090,no_goods_trace,"3-way match, invoice before GR",Packaging,330.0,,2018-12-07 09:04:00,0.0,0.0,0.0,0.0
+4507029257_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,320.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4507031904_00360,no_goods_trace,"3-way match, invoice before GR",Packaging,312.0,,2018-10-04 16:48:00,0.0,0.0,0.0,0.0
+4507010916_00080,no_goods_trace,"3-way match, invoice before GR",Packaging,310.0,,2018-05-31 10:07:00,0.0,0.0,0.0,0.0
+4507037293_00030,no_goods_trace,"3-way match, invoice before GR",Packaging,301.0,,2018-11-08 16:43:00,0.0,0.0,0.0,0.0
+4507024997_00040,no_goods_trace,"3-way match, invoice before GR",Sales,297.0,,2018-07-19 13:17:00,0.0,0.0,0.0,0.0
+4507024400_00010,no_goods_trace,"3-way match, invoice before GR",Sales,260.0,,2018-05-17 16:16:00,0.0,0.0,0.0,0.0
+4507004352_00130,no_goods_trace,"3-way match, invoice before GR",Packaging,249.0,,2018-03-29 17:11:00,0.0,0.0,0.0,0.0
+4507021746_00020,no_goods_trace,"3-way match, invoice before GR",Sales,244.0,,2018-06-07 13:11:00,0.0,0.0,0.0,0.0
+4508043052_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,243.0,,2018-09-28 10:26:00,0.0,0.0,0.0,0.0
+4507036687_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,242.0,,2018-10-26 11:01:00,0.0,0.0,0.0,0.0
+4508049934_00060,no_goods_trace,"3-way match, invoice before GR",Packaging,242.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4508042852_00070,no_goods_trace,"3-way match, invoice before GR",Packaging,238.0,,2018-11-22 14:53:00,0.0,0.0,0.0,0.0
+4507030870_00090,no_goods_trace,"3-way match, invoice before GR",Packaging,228.0,,2018-12-07 09:04:00,0.0,0.0,0.0,0.0
+4507019268_00340,no_goods_trace,"3-way match, invoice before GR",Packaging,225.0,,2018-08-09 14:28:00,0.0,0.0,0.0,0.0
+4507027414_00010,no_goods_trace,"3-way match, invoice before GR",Additives,223.0,,2018-12-05 11:52:00,0.0,0.0,0.0,0.0
+4507027910_00040,no_goods_trace,"3-way match, invoice before GR",Sales,218.0,,2018-07-24 08:36:00,0.0,0.0,0.0,0.0
+4508043597_00050,no_goods_trace,"3-way match, invoice before GR",Packaging,208.0,,2018-11-08 16:43:00,0.0,0.0,0.0,0.0
+4508048254_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,208.0,,2018-12-07 09:04:00,0.0,0.0,0.0,0.0
+4507025001_00050,no_goods_trace,"3-way match, invoice before GR",Sales,204.0,,2018-07-05 14:10:00,0.0,0.0,0.0,0.0
+4508042878_00080,no_goods_trace,"3-way match, invoice before GR",Packaging,195.0,,2018-11-08 16:43:00,0.0,0.0,0.0,0.0
+4508055857_00120,no_goods_trace,"3-way match, invoice before GR",Sales,188.0,,2018-11-15 15:35:00,0.0,0.0,0.0,0.0
+4508054623_00010,no_goods_trace,"3-way match, invoice before GR",Sales,186.0,,2018-11-15 15:34:00,0.0,0.0,0.0,0.0
+4507032959_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,185.0,,2018-11-29 16:14:00,0.0,0.0,0.0,0.0
+4508067888_00750,no_goods_trace,"3-way match, invoice before GR",Sales,180.0,,2019-01-03 16:12:00,0.0,0.0,0.0,0.0
+4508075522_00020,no_goods_trace,"3-way match, invoice before GR",Sales,177.0,,2019-01-10 15:42:00,0.0,0.0,0.0,0.0
+4507014100_00050,no_goods_trace,"3-way match, invoice before GR",Packaging,176.0,,2018-04-26 11:11:00,0.0,0.0,0.0,0.0
+4507003280_00030,no_goods_trace,"3-way match, invoice before GR",Packaging,174.0,,2018-09-13 16:41:00,0.0,0.0,0.0,0.0
+4507001238_00140,no_goods_trace,"3-way match, invoice before GR",Packaging,170.0,,2018-06-29 11:23:00,0.0,0.0,0.0,0.0
+4507028991_00050,no_goods_trace,"3-way match, invoice before GR",Packaging,167.0,,2018-09-06 14:06:00,0.0,0.0,0.0,0.0
+4507041384_00440,no_goods_trace,"3-way match, invoice before GR",Packaging,162.0,,2018-08-23 17:58:00,0.0,0.0,0.0,0.0
+4508044880_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,162.0,,2018-08-23 17:58:00,0.0,0.0,0.0,0.0
+4507027759_00020,no_goods_trace,"3-way match, invoice before GR",Sales,158.0,,2018-05-31 12:33:00,0.0,0.0,0.0,0.0
+4508055835_00030,no_goods_trace,"3-way match, invoice before GR",Sales,158.0,,2018-12-03 09:32:00,0.0,0.0,0.0,0.0
+4507006677_00030,no_goods_trace,"3-way match, invoice before GR",Marketing,155.0,,2018-07-19 13:17:00,0.0,0.0,0.0,0.0
+4507023199_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,146.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4508043260_00030,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,142.0,,2018-09-28 10:26:00,0.0,0.0,0.0,0.0
+4507029805_00010,no_goods_trace,"3-way match, invoice before GR",Sales,137.0,,2018-07-24 08:38:00,0.0,0.0,0.0,0.0
+4507020939_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-05-24 13:36:00,0.0,0.0,0.0,0.0
+4508042334_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-07-26 18:09:00,0.0,0.0,0.0,0.0
+4508042335_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-07-26 18:09:00,0.0,0.0,0.0,0.0
+4508042337_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508042339_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508044178_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508044180_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508044183_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-08-30 15:40:00,0.0,0.0,0.0,0.0
+4508051508_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508051516_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508051517_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508051518_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508051998_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-09-28 10:29:00,0.0,0.0,0.0,0.0
+4508060646_00030,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4508064088_00030,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4508064093_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2018-11-29 16:16:00,0.0,0.0,0.0,0.0
+4508068462_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4508069339_00020,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,129.0,,2019-01-04 23:59:00,0.0,0.0,0.0,0.0
+4507007219_00240,no_goods_trace,"3-way match, invoice before GR",Sales,127.0,,2018-03-22 14:17:00,0.0,0.0,0.0,0.0
+4507037450_00110,no_goods_trace,"3-way match, invoice before GR",Sales,126.0,,2018-11-22 14:54:00,0.0,0.0,0.0,0.0
+4507013704_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,124.0,,2018-06-07 13:11:00,0.0,0.0,0.0,0.0
+4507014100_00070,no_goods_trace,"3-way match, invoice before GR",Packaging,122.0,,2018-04-26 11:11:00,0.0,0.0,0.0,0.0
+4507036103_00130,no_goods_trace,"3-way match, invoice before GR",Sales,112.0,,2019-01-07 11:11:00,0.0,0.0,0.0,0.0
+4507020977_00060,no_goods_trace,"3-way match, invoice before GR",Packaging,109.0,,2018-09-06 14:06:00,0.0,0.0,0.0,0.0
+4507029919_00030,no_goods_trace,"3-way match, invoice before GR",Packaging,104.0,,2018-10-18 15:31:00,0.0,0.0,0.0,0.0
+4508071543_00100,no_goods_trace,"3-way match, invoice before GR",Sales,102.0,,2019-01-10 15:45:00,0.0,0.0,0.0,0.0
+4507033677_00030,no_goods_trace,"3-way match, invoice before GR",Sales,101.0,,2018-07-30 17:03:00,0.0,0.0,0.0,0.0
+4507027910_00030,no_goods_trace,"3-way match, invoice before GR",Sales,100.0,,2018-07-24 08:36:00,0.0,0.0,0.0,0.0
+4507005276_00310,no_goods_trace,"3-way match, invoice before GR",Sales,94.0,,2018-02-15 14:51:00,0.0,0.0,0.0,0.0
+4507027910_00020,no_goods_trace,"3-way match, invoice before GR",Sales,93.0,,2018-07-24 08:36:00,0.0,0.0,0.0,0.0
+4507004049_00030,no_goods_trace,"3-way match, invoice before GR",Sales,92.0,,2018-02-05 11:10:00,0.0,0.0,0.0,0.0
+4508052138_00110,no_goods_trace,"3-way match, invoice before GR",Sales,85.0,,2018-10-22 13:49:00,0.0,0.0,0.0,0.0
+4508046038_00030,no_goods_trace,"3-way match, invoice before GR",Sales,84.0,,2018-10-11 13:46:00,0.0,0.0,0.0,0.0
+4508063256_00160,no_goods_trace,"3-way match, invoice before GR",Sales,84.0,,2018-12-07 09:04:00,0.0,0.0,0.0,0.0
+4508045757_00090,no_goods_trace,"3-way match, invoice before GR",Sales,80.0,,2018-09-28 10:28:00,0.0,0.0,0.0,0.0
+4508057512_00030,no_goods_trace,"3-way match, invoice before GR",Sales,80.0,,2018-12-07 12:59:00,0.0,0.0,0.0,0.0
+4507006460_00120,no_goods_trace,"3-way match, invoice before GR",Sales,74.0,,2018-04-12 14:07:00,0.0,0.0,0.0,0.0
+4508069224_00030,no_goods_trace,"3-way match, invoice before GR",Sales,67.0,,2019-01-17 14:40:00,0.0,0.0,0.0,0.0
+4507023586_00030,no_goods_trace,"3-way match, invoice before GR",Packaging,58.0,,2018-06-14 15:01:00,0.0,0.0,0.0,0.0
+4507023586_00040,no_goods_trace,"3-way match, invoice before GR",Packaging,58.0,,2018-06-14 15:01:00,0.0,0.0,0.0,0.0
+4508045757_00100,no_goods_trace,"3-way match, invoice before GR",Sales,58.0,,2018-09-28 10:28:00,0.0,0.0,0.0,0.0
+4507032823_00030,no_goods_trace,"3-way match, invoice before GR",Sales,52.0,,2018-08-16 15:02:00,0.0,0.0,0.0,0.0
+4508065058_00100,no_goods_trace,"3-way match, invoice before GR",Sales,48.0,,2019-01-03 16:12:00,0.0,0.0,0.0,0.0
+4507028370_00010,no_goods_trace,"3-way match, invoice before GR",Sales,47.0,,2018-05-30 16:46:00,0.0,0.0,0.0,0.0
+4507038517_00050,no_goods_trace,"3-way match, invoice before GR",Packaging,43.0,,2018-10-04 16:48:00,0.0,0.0,0.0,0.0
+4507003075_00180,no_goods_trace,"3-way match, invoice before GR",Sales,41.0,,2018-03-08 13:21:00,0.0,0.0,0.0,0.0
+4507032959_00040,no_goods_trace,"3-way match, invoice before GR",CAPEX & SOCS,41.0,,2018-11-29 16:14:00,0.0,0.0,0.0,0.0
+4508061493_00160,no_goods_trace,"3-way match, invoice before GR",Sales,40.0,,2018-12-07 09:04:00,0.0,0.0,0.0,0.0
+4507027027_00010,no_goods_trace,"3-way match, invoice before GR",Packaging,35.0,,2018-09-06 14:06:00,0.0,0.0,0.0,0.0
+4507027027_00020,no_goods_trace,"3-way match, invoice before GR",Packaging,35.0,,2018-09-06 14:06:00,0.0,0.0,0.0,0.0
+4508048137_00160,no_goods_trace,"3-way match, invoice before GR",Sales,35.0,,2018-10-04 16:48:00,0.0,0.0,0.0,0.0
+4507038101_00020,no_goods_trace,"3-way match, invoice before GR",Sales,34.0,,2018-08-16 15:02:00,0.0,0.0,0.0,0.0
+4507039076_00050,no_goods_trace,"3-way match, invoice before GR",Others,29.0,,2018-07-26 18:07:00,0.0,0.0,0.0,0.0
+4508070077_00020,no_goods_trace,"3-way match, invoice before GR",Sales,29.0,,2018-11-29 14:42:00,0.0,0.0,0.0,0.0
+4507020565_00020,no_goods_trace,"3-way match, invoice before GR",Others,19.0,,2018-04-26 11:13:00,0.0,0.0,0.0,0.0
+4507020565_00030,no_goods_trace,"3-way match, invoice before GR",Others,19.0,,2018-04-26 11:13:00,0.0,0.0,0.0,0.0
+4508065058_00340,no_goods_trace,"3-way match, invoice before GR",Sales,19.0,,2019-01-03 16:12:00,0.0,0.0,0.0,0.0
+4507027298_00210,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,18.0,,2018-07-19 13:16:00,0.0,0.0,0.0,0.0
+4507008087_00020,no_goods_trace,"3-way match, invoice before GR",Trading & End Products,13.0,,2018-07-27 12:11:00,0.0,0.0,0.0,0.0
+4507020565_00010,no_goods_trace,"3-way match, invoice before GR",Others,9.0,,2018-04-26 11:13:00,0.0,0.0,0.0,0.0
+4507004641_00280,no_goods_trace,"3-way match, invoice before GR",Sales,7.0,,2018-03-22 13:53:00,0.0,0.0,0.0,0.0
+4508042098_00350,no_goods_trace,"3-way match, invoice before GR",Sales,2.0,,2018-08-30 15:38:00,0.0,0.0,0.0,0.0
+4507032353_00020,receipts_cancelled,"3-way match, invoice before GR",Additives,58815.0,2018-06-21 11:24:00,2018-09-06 14:06:00,1.0,1.0,1.0,1.0
+4507006115_00010,receipts_cancelled,"3-way match, invoice before GR",Latex & Monomers,44442.0,2018-02-06 13:49:00,2018-04-26 11:15:00,1.0,1.0,1.0,1.0
+4507019478_00010,receipts_cancelled,"3-way match, invoice before GR",Commodity Resins,41915.0,2018-04-06 11:34:00,2018-05-24 13:33:00,1.0,1.0,1.0,1.0
+4508058818_00010,receipts_cancelled,"3-way match, invoice before GR",Additives,33396.0,2018-11-07 08:27:00,2019-01-04 23:59:00,1.0,1.0,1.0,1.0
+4507013748_00020,receipts_cancelled,"3-way match, invoice before GR",Titanium Dioxides,31218.0,2018-05-24 08:44:00,2018-08-30 15:39:00,1.0,1.0,1.0,1.0
+4507019585_00020,receipts_cancelled,"3-way match, invoice before GR",Latex & Monomers,20729.0,2018-04-13 12:17:00,2018-06-28 14:02:00,1.0,1.0,1.0,1.0
+4507030018_00010,receipts_cancelled,"3-way match, invoice before GR",Additives,18360.0,2018-06-15 09:46:00,2018-08-30 15:36:00,1.0,1.0,1.0,1.0
+4508042747_00010,receipts_cancelled,"3-way match, invoice before GR",Additives,16947.0,2018-08-28 10:42:00,2018-12-07 09:06:00,1.0,1.0,1.0,1.0
+4507039239_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,16190.0,2018-07-11 17:13:00,2018-09-28 10:28:00,1.0,1.0,1.0,1.0
+4508050323_00010,receipts_cancelled,"3-way match, invoice before GR",Additives,16065.0,2018-09-17 09:56:00,2018-11-29 16:14:00,1.0,1.0,1.0,1.0
+4507012777_00180,receipts_cancelled,"3-way match, invoice before GR",Additives,12898.0,2018-03-12 08:41:00,2018-05-24 13:34:00,1.0,1.0,1.0,1.0
+4508046284_00020,receipts_cancelled,"3-way match, invoice before GR",,12470.0,2018-08-13 09:56:00,2018-10-26 11:03:00,1.0,1.0,1.0,1.0
+4507001688_00020,receipts_cancelled,"3-way match, invoice before GR",Pigments & Colorants,10219.0,2018-02-12 09:55:00,2018-04-26 11:14:00,1.0,1.0,1.0,1.0
+4508046720_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,9028.0,2018-08-07 07:43:00,2018-08-30 15:39:00,1.0,1.0,1.0,1.0
+4508048916_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,8996.0,2018-08-21 13:03:00,2018-09-13 16:41:00,1.0,1.0,1.0,1.0
+4507001770_00020,receipts_cancelled,"3-way match, invoice before GR",Additives,8660.0,2018-03-30 09:24:00,2018-05-17 14:50:00,1.0,1.0,1.0,1.0
+4507037508_00010,receipts_cancelled,"3-way match, invoice before GR",Titanium Dioxides,8629.0,2018-08-27 15:01:00,2018-10-04 16:48:00,1.0,1.0,1.0,1.0
+4508055282_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,7873.0,2018-10-31 14:02:00,2019-01-03 16:10:00,1.0,1.0,1.0,1.0
+4507034029_00010,receipts_cancelled,"3-way match, invoice before GR",,7205.0,2018-07-02 10:11:00,2018-08-30 15:38:00,1.0,2.0,1.0,1.0
+4507022372_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,6372.0,2018-05-21 11:57:00,2018-08-31 13:11:00,2.0,2.0,2.0,2.0
+4508062505_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,5504.0,2018-11-13 12:10:00,2019-01-10 15:43:00,3.0,3.0,3.0,3.0
+4507005411_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,5460.0,2018-02-01 13:42:00,2018-03-22 15:40:00,4.0,4.0,4.0,4.0
+4507013735_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,5197.0,2018-03-16 11:00:00,2018-06-28 14:03:00,1.0,1.0,1.0,1.0
+4507014077_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,4200.0,2018-03-27 10:53:00,2018-05-24 13:36:00,2.0,2.0,2.0,2.0
+4507037985_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,3843.0,2018-08-02 13:07:00,2018-11-08 16:44:00,2.0,2.0,2.0,2.0
+4507027917_00020,receipts_cancelled,"3-way match, invoice before GR",Packaging,3424.0,2018-06-14 11:43:00,2018-08-30 15:41:00,1.0,1.0,1.0,1.0
+4507011401_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,3289.0,2018-03-21 09:52:00,2018-07-05 14:10:00,1.0,1.0,1.0,1.0
+4508055950_00010,receipts_cancelled,"3-way match, invoice before GR",Additives,2961.0,2018-09-27 14:41:00,2018-11-29 16:15:00,1.0,1.0,1.0,1.0
+4507041862_00020,receipts_cancelled,"3-way match, invoice before GR",Packaging,2815.0,2018-08-24 08:55:00,2018-11-08 16:43:00,2.0,1.0,1.0,1.0
+4507023384_00010,receipts_cancelled,"3-way match, invoice before GR",Titanium Dioxides,2401.0,2018-04-23 13:02:00,2018-07-13 10:56:00,1.0,1.0,1.0,1.0
+4507041686_00020,receipts_cancelled,"3-way match, invoice before GR",Packaging,2355.0,2018-07-20 11:31:00,2018-09-28 10:29:00,5.0,5.0,5.0,5.0
+4507002092_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,2186.0,2018-02-07 11:44:00,2018-05-24 13:32:00,1.0,1.0,1.0,1.0
+4507011516_00020,receipts_cancelled,"3-way match, invoice before GR",Additives,2171.0,2018-03-13 07:29:00,2018-05-09 14:10:00,1.0,1.0,1.0,1.0
+4507032941_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,1829.0,2018-05-31 13:07:00,2018-08-13 12:57:00,1.0,1.0,1.0,1.0
+4508057443_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,1419.0,2018-10-15 13:47:00,2019-01-10 15:42:00,1.0,1.0,1.0,1.0
+4507034533_00010,receipts_cancelled,"3-way match, invoice before GR",CAPEX & SOCS,1363.0,2018-07-03 08:12:00,2018-09-17 13:23:00,1.0,1.0,1.0,1.0
+4507041859_00040,receipts_cancelled,"3-way match, invoice before GR",Packaging,1352.0,2018-09-06 09:58:00,2018-11-29 16:15:00,1.0,1.0,1.0,1.0
+4507039410_00040,receipts_cancelled,"3-way match, invoice before GR",Packaging,1295.0,2018-07-10 13:31:00,2018-08-30 15:37:00,1.0,1.0,1.0,1.0
+4507014077_00020,receipts_cancelled,"3-way match, invoice before GR",Packaging,1177.0,2018-03-27 10:30:00,2018-06-22 11:11:00,2.0,2.0,2.0,2.0
+4507026420_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,836.0,2018-06-21 18:56:00,2018-09-06 14:06:00,1.0,1.0,1.0,1.0
+4508047524_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,817.0,2018-08-24 09:47:00,2018-12-07 09:04:00,1.0,1.0,1.0,1.0
+4507037066_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,767.0,2018-07-05 14:37:00,2018-10-04 16:48:00,1.0,1.0,1.0,1.0
+4508065388_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,741.0,2018-11-28 10:15:00,2018-12-07 16:51:00,1.0,1.0,1.0,1.0
+4507024652_00040,receipts_cancelled,"3-way match, invoice before GR",Packaging,691.0,2018-05-16 11:35:00,2018-08-23 17:58:00,1.0,1.0,1.0,1.0
+4507034210_00030,receipts_cancelled,"3-way match, invoice before GR",Additives,660.0,2018-06-18 11:16:00,2018-08-30 15:38:00,1.0,1.0,1.0,1.0
+4507013126_00040,receipts_cancelled,"3-way match, invoice before GR",Packaging,659.0,2018-03-21 09:30:00,2018-07-05 14:10:00,1.0,1.0,1.0,1.0
+4507012747_00150,receipts_cancelled,"3-way match, invoice before GR",Packaging,623.0,2018-03-06 14:21:00,2018-06-28 14:04:00,1.0,1.0,1.0,1.0
+4507013369_00790,receipts_cancelled,"3-way match, invoice before GR",Packaging,621.0,2018-03-14 15:47:00,2018-06-28 14:04:00,1.0,1.0,1.0,1.0
+4507030876_00080,receipts_cancelled,"3-way match, invoice before GR",Packaging,597.0,2018-06-05 13:57:00,2018-09-06 14:06:00,1.0,1.0,1.0,1.0
+4507020848_00120,receipts_cancelled,"3-way match, invoice before GR",Trading & End Products,565.0,2018-04-20 12:31:00,2018-05-24 13:33:00,1.0,1.0,1.0,1.0
+4508054748_00160,receipts_cancelled,"3-way match, invoice before GR",Packaging,529.0,2018-09-26 14:50:00,2019-01-04 23:59:00,1.0,1.0,1.0,1.0
+4507025900_00160,receipts_cancelled,"3-way match, invoice before GR",Packaging,449.0,2018-05-15 10:13:00,2018-08-30 15:39:00,1.0,1.0,1.0,1.0
+4508049963_00110,receipts_cancelled,"3-way match, invoice before GR",Packaging,409.0,2018-08-27 13:54:00,2018-12-07 09:04:00,1.0,1.0,1.0,1.0
+4507013170_00050,receipts_cancelled,"3-way match, invoice before GR",Packaging,383.0,2018-03-16 08:05:00,2018-07-05 14:10:00,1.0,1.0,1.0,1.0
+4507007731_00650,receipts_cancelled,"3-way match, invoice before GR",Packaging,370.0,2018-02-14 10:05:00,2018-05-24 13:35:00,1.0,1.0,1.0,1.0
+4507022372_00070,receipts_cancelled,"3-way match, invoice before GR",Packaging,351.0,2018-05-21 11:56:00,2018-08-31 13:11:00,1.0,1.0,1.0,1.0
+4507038515_00050,receipts_cancelled,"3-way match, invoice before GR",Packaging,338.0,2018-07-12 08:49:00,2018-11-08 16:43:00,1.0,1.0,1.0,1.0
+4508051645_00170,receipts_cancelled,"3-way match, invoice before GR",Packaging,316.0,2018-09-05 19:55:00,2019-01-04 23:59:00,1.0,1.0,1.0,1.0
+4507006848_00001,receipts_cancelled,"3-way match, invoice before GR",Packaging,313.0,2018-02-08 16:06:00,2018-05-24 13:32:00,1.0,1.0,1.0,1.0
+4507032254_00110,receipts_cancelled,"3-way match, invoice before GR",Packaging,312.0,2018-06-19 12:31:00,2018-10-04 16:48:00,2.0,2.0,2.0,2.0
+4507026363_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,302.0,2018-05-15 16:28:00,2018-09-06 14:06:00,2.0,2.0,2.0,2.0
+4507020365_00060,receipts_cancelled,"3-way match, invoice before GR",Packaging,287.0,2018-04-18 15:33:00,2018-07-26 18:06:00,2.0,2.0,2.0,2.0
+4507020365_00090,receipts_cancelled,"3-way match, invoice before GR",Packaging,287.0,2018-04-18 15:33:00,2018-07-26 18:06:00,2.0,2.0,2.0,2.0
+4507032102_00160,receipts_cancelled,"3-way match, invoice before GR",Packaging,264.0,2018-06-11 13:35:00,2018-09-28 10:26:00,1.0,1.0,1.0,1.0
+4507008970_00001,receipts_cancelled,"3-way match, invoice before GR",Packaging,250.0,2018-02-13 12:00:00,2018-05-24 13:32:00,1.0,1.0,1.0,1.0
+4508051028_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,243.0,2018-08-29 14:19:00,2018-09-27 15:45:00,1.0,1.0,1.0,1.0
+4507002695_00020,receipts_cancelled,"3-way match, invoice before GR",Packaging,185.0,2018-01-25 10:37:00,2018-05-09 14:09:00,1.0,1.0,1.0,1.0
+4507020346_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,181.0,2018-04-19 15:00:00,2018-08-23 13:39:00,1.0,1.0,1.0,1.0
+4507013196_00080,receipts_cancelled,"3-way match, invoice before GR",Packaging,161.0,2018-03-19 13:58:00,2018-06-28 14:03:00,1.0,1.0,1.0,1.0
+4507025803_00001,receipts_cancelled,"3-way match, invoice before GR",Packaging,153.0,2018-05-03 10:19:00,2018-08-30 15:36:00,1.0,1.0,1.0,1.0
+4507015191_00230,receipts_cancelled,"3-way match, invoice before GR",Packaging,146.0,2018-03-16 13:32:00,2018-06-28 14:04:00,1.0,1.0,1.0,1.0
+4507017298_00150,receipts_cancelled,"3-way match, invoice before GR",Packaging,146.0,2018-03-28 20:07:00,2018-07-19 13:16:00,1.0,1.0,1.0,1.0
+4508048369_00180,receipts_cancelled,"3-way match, invoice before GR",Packaging,133.0,2018-08-28 14:38:00,2018-12-07 09:04:00,1.0,1.0,1.0,1.0
+4507032255_00140,receipts_cancelled,"3-way match, invoice before GR",Packaging,119.0,2018-06-14 15:25:00,2018-10-04 16:48:00,1.0,1.0,1.0,1.0
+4507001020_00110,receipts_cancelled,"3-way match, invoice before GR",Packaging,109.0,2018-01-22 11:58:00,2018-04-26 11:12:00,1.0,1.0,1.0,1.0
+4507024319_00140,receipts_cancelled,"3-way match, invoice before GR",Packaging,87.0,2018-05-08 18:46:00,2018-08-30 15:36:00,1.0,1.0,1.0,1.0
+4508042540_00030,receipts_cancelled,"3-way match, invoice before GR",Packaging,65.0,2018-08-01 08:12:00,2018-11-08 16:43:00,1.0,1.0,1.0,1.0
+4507020327_00280,receipts_cancelled,"3-way match, invoice before GR",Packaging,42.0,2018-04-11 11:20:00,2018-06-28 16:24:00,1.0,1.0,1.0,1.0
+4507028356_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,10.0,2018-07-03 15:09:00,2018-11-12 15:18:00,1.0,1.0,1.0,1.0
+4507037625_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,10.0,2018-07-19 10:35:00,2018-11-12 15:18:00,1.0,1.0,1.0,1.0
+4507038583_00010,receipts_cancelled,"3-way match, invoice before GR",Packaging,0.0,2018-07-02 11:30:00,2018-11-12 15:18:00,1.0,1.0,1.0,1.0
+4507002401_00010,receipt_missing_cancel,"3-way match, invoice before GR",Pigments & Colorants,28143.0,,2018-01-29 13:04:00,0.0,1.0,0.0,1.0
+4507039457_00030,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,10426.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507039457_00050,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,10289.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507039457_00080,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,9918.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507021942_00030,receipt_missing_cancel,"3-way match, invoice before GR",Sales,8937.0,,2018-08-30 15:38:00,0.0,1.0,0.0,1.0
+4507041857_00020,receipt_missing_cancel,"3-way match, invoice before GR",Additives,7742.0,,2018-10-26 11:03:00,0.0,1.0,0.0,1.0
+4508042625_00020,receipt_missing_cancel,"3-way match, invoice before GR",Others,7085.0,,2018-11-29 16:15:00,0.0,1.0,0.0,1.0
+4507039457_00040,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,7059.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507006039_00040,receipt_missing_cancel,"3-way match, invoice before GR",Sales,6577.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4507039457_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,6237.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507002729_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,5688.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4507037387_00010,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,5274.0,,2018-09-14 13:16:00,0.0,1.0,0.0,1.0
+4507003909_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,4769.0,,2018-03-29 15:08:00,0.0,1.0,0.0,1.0
+4507021942_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,4588.0,,2018-08-30 15:38:00,0.0,1.0,0.0,1.0
+4508057908_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,4489.0,,2018-11-29 16:14:00,0.0,1.0,0.0,1.0
+4507041097_00010,receipt_missing_cancel,"3-way match, invoice before GR",Latex & Monomers,4433.0,,2018-09-28 10:26:00,0.0,1.0,0.0,1.0
+4507003909_00010,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,4369.0,,2018-03-29 15:08:00,0.0,1.0,0.0,1.0
+4507005218_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,3897.0,,2018-05-09 14:09:00,0.0,1.0,0.0,1.0
+4507028076_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,3595.0,,2018-08-13 13:01:00,0.0,1.0,0.0,1.0
+4507035172_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,3500.0,,2018-07-26 18:06:00,0.0,1.0,0.0,1.0
+4507039457_00010,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,3405.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507021942_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,3263.0,,2018-08-30 15:38:00,0.0,1.0,0.0,1.0
+4507037339_00040,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,3220.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507037337_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,2601.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507037337_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,2601.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507039457_00060,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,2191.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4508065881_00010,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,2119.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507037337_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,2109.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507030190_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,1951.0,,2018-08-09 14:30:00,0.0,1.0,0.0,1.0
+4507038106_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,1929.0,,2018-08-30 15:36:00,0.0,1.0,0.0,1.0
+4507037337_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,1907.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507006039_00050,receipt_missing_cancel,"3-way match, invoice before GR",Sales,1497.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4508057908_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,1496.0,,2018-11-29 16:14:00,0.0,1.0,0.0,1.0
+4508065881_00030,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1414.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508058288_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,1372.0,,2018-11-29 16:15:00,0.0,1.0,0.0,1.0
+4508065881_00180,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1299.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507019980_00040,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1231.0,,2018-12-14 16:50:00,0.0,1.0,0.0,1.0
+4508058288_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,1183.0,,2018-11-29 16:15:00,0.0,1.0,0.0,1.0
+4507006039_00060,receipt_missing_cancel,"3-way match, invoice before GR",Sales,1177.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4508065881_00050,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00060,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00070,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00090,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00110,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00120,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00130,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00140,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00160,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00170,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1162.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507037337_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,1125.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4508065881_00080,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1025.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508065881_00100,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,1025.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508066803_00010,receipt_missing_cancel,"3-way match, invoice before GR",,996.0,,2018-11-16 10:43:00,0.0,1.0,0.0,1.0
+4508048495_00010,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,938.0,,2018-09-06 14:06:00,0.0,1.0,0.0,1.0
+4507018335_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,929.0,,2018-10-12 16:54:00,0.0,1.0,0.0,1.0
+4507006039_00030,receipt_missing_cancel,"3-way match, invoice before GR",Sales,904.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4507037337_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,900.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507019672_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,870.0,,2018-05-24 13:33:00,0.0,1.0,0.0,1.0
+4508060325_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,837.0,,2018-11-29 16:14:00,0.0,1.0,0.0,1.0
+4508065881_00150,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,820.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4508063170_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,791.0,,2018-12-07 09:03:00,0.0,1.0,0.0,1.0
+4507022966_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,789.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507033044_00030,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,731.0,,2018-06-28 14:05:00,0.0,1.0,0.0,1.0
+4507020215_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,705.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507021108_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,705.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4508049042_00010,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,666.0,,2018-09-28 10:26:00,0.0,1.0,0.0,1.0
+4507006039_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,665.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4507022603_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,655.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507039457_00090,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,649.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4508052598_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,641.0,,2018-11-22 14:53:00,0.0,1.0,0.0,1.0
+4507002186_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,613.0,,2018-02-08 14:43:00,0.0,1.0,0.0,1.0
+4507006039_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,581.0,,2018-03-29 15:10:00,0.0,1.0,0.0,1.0
+4507039457_00070,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,556.0,,2018-09-04 13:51:00,0.0,1.0,0.0,1.0
+4507022203_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,551.0,,2018-06-28 14:02:00,0.0,1.0,0.0,1.0
+4507038106_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,551.0,,2018-08-30 15:36:00,0.0,1.0,0.0,1.0
+4507022919_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,543.0,,2018-06-07 13:12:00,0.0,1.0,0.0,1.0
+4507019327_00250,receipt_missing_cancel,"3-way match, invoice before GR",Sales,537.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508069747_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,532.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507009149_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,521.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4508065881_00040,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,512.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507022990_00040,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,507.0,,2018-12-14 16:50:00,0.0,1.0,0.0,1.0
+4507019327_00060,receipt_missing_cancel,"3-way match, invoice before GR",Sales,481.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507019327_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,435.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507022550_00060,receipt_missing_cancel,"3-way match, invoice before GR",Sales,414.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4508047238_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,393.0,,2018-10-04 16:48:00,0.0,1.0,0.0,1.0
+4508048991_00280,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,384.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507025070_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,383.0,,2018-07-05 10:48:00,0.0,1.0,0.0,1.0
+4507019327_00260,receipt_missing_cancel,"3-way match, invoice before GR",Sales,364.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507020215_00020,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,352.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507021108_00020,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,352.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4508048495_00030,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,346.0,,2018-09-06 14:06:00,0.0,1.0,0.0,1.0
+4507019672_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,334.0,,2018-05-24 13:33:00,0.0,1.0,0.0,1.0
+4508071078_00010,receipt_missing_cancel,"3-way match, invoice after GR",Sales,334.0,,2019-01-10 15:45:00,0.0,1.0,0.0,1.0
+4507019327_00240,receipt_missing_cancel,"3-way match, invoice before GR",Sales,322.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507037985_00030,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,320.0,,2018-11-08 16:44:00,0.0,1.0,0.0,1.0
+4507019327_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,315.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508048495_00020,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,312.0,,2018-09-06 14:06:00,0.0,1.0,0.0,1.0
+4508065881_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,307.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507022550_00050,receipt_missing_cancel,"3-way match, invoice before GR",Sales,294.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507019327_00110,receipt_missing_cancel,"3-way match, invoice before GR",Sales,274.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507020215_00030,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,274.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507021108_00030,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,274.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507025070_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,271.0,,2018-07-05 10:48:00,0.0,1.0,0.0,1.0
+4507019327_00160,receipt_missing_cancel,"3-way match, invoice before GR",Sales,262.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508049042_00020,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,260.0,,2018-09-28 10:26:00,0.0,1.0,0.0,1.0
+4507020955_00030,receipt_missing_cancel,"3-way match, invoice before GR",Additives,239.0,,2018-07-26 18:08:00,0.0,1.0,0.0,1.0
+4507019327_00190,receipt_missing_cancel,"3-way match, invoice before GR",Sales,237.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507007413_00130,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,225.0,,2018-08-23 13:40:00,0.0,1.0,0.0,1.0
+4507022550_00040,receipt_missing_cancel,"3-way match, invoice before GR",Sales,220.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507022550_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,211.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507022550_00030,receipt_missing_cancel,"3-way match, invoice before GR",Sales,207.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507019327_00080,receipt_missing_cancel,"3-way match, invoice before GR",Sales,196.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508048991_00240,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,192.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508052598_00030,receipt_missing_cancel,"3-way match, invoice before GR",Sales,184.0,,2018-11-22 14:53:00,0.0,1.0,0.0,1.0
+4508048991_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,180.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507011468_00010,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,175.0,,2018-03-29 15:06:00,0.0,1.0,0.0,1.0
+4507019327_00220,receipt_missing_cancel,"3-way match, invoice before GR",Sales,172.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507019327_00070,receipt_missing_cancel,"3-way match, invoice before GR",Sales,164.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508048991_00210,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,162.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507022603_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,161.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4508044104_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,159.0,,2018-09-20 16:13:00,0.0,1.0,0.0,1.0
+4508065837_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,157.0,,2018-12-07 09:09:00,0.0,1.0,0.0,1.0
+4507022603_00030,receipt_missing_cancel,"3-way match, invoice before GR",Sales,156.0,,2018-05-24 13:32:00,0.0,1.0,0.0,1.0
+4507024217_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,154.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507019327_00180,receipt_missing_cancel,"3-way match, invoice before GR",Sales,149.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508049042_00030,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,149.0,,2018-09-28 10:26:00,0.0,1.0,0.0,1.0
+4508048991_00230,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,147.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00260,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,147.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00290,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,147.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,135.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508066236_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,134.0,,2019-01-04 23:59:00,0.0,1.0,0.0,1.0
+4507019327_00170,receipt_missing_cancel,"3-way match, invoice before GR",Sales,131.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507019327_00200,receipt_missing_cancel,"3-way match, invoice before GR",Sales,129.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507022550_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,125.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507033281_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,124.0,,2018-08-30 15:36:00,0.0,1.0,0.0,1.0
+4507019327_00120,receipt_missing_cancel,"3-way match, invoice before GR",Sales,119.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507019327_00130,receipt_missing_cancel,"3-way match, invoice before GR",Sales,119.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507019327_00090,receipt_missing_cancel,"3-way match, invoice before GR",Sales,115.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507026370_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,111.0,,2018-07-05 14:11:00,0.0,1.0,0.0,1.0
+4507010756_00010,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,103.0,,2018-03-15 14:13:00,0.0,1.0,0.0,1.0
+4508048991_00330,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,103.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00340,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,103.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508052598_00020,receipt_missing_cancel,"3-way match, invoice before GR",Sales,103.0,,2018-11-22 14:53:00,0.0,1.0,0.0,1.0
+4507019327_00050,receipt_missing_cancel,"3-way match, invoice before GR",Sales,99.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507013856_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,97.0,,2018-05-09 14:12:00,0.0,1.0,0.0,1.0
+4507024217_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,94.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507037078_00030,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,94.0,,2018-10-26 11:01:00,0.0,1.0,0.0,1.0
+4507009149_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,89.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4508048991_00220,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,88.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00250,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,88.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507019327_00230,receipt_missing_cancel,"3-way match, invoice before GR",Sales,86.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507016428_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,83.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507023851_00010,receipt_missing_cancel,"3-way match, invoice before GR",Sales,80.0,,2018-08-09 14:30:00,0.0,1.0,0.0,1.0
+4507029483_00020,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,78.0,,2018-10-26 11:01:00,0.0,1.0,0.0,1.0
+4507024217_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,77.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4508065837_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,77.0,,2018-12-07 09:09:00,0.0,1.0,0.0,1.0
+4507009115_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,74.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507019327_00040,receipt_missing_cancel,"3-way match, invoice before GR",Sales,74.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508048991_00200,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,73.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00270,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,73.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00310,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,73.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,70.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507041706_00020,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,68.0,,2018-08-30 15:36:00,0.0,1.0,0.0,1.0
+4507009149_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,66.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507019327_00210,receipt_missing_cancel,"3-way match, invoice before GR",Sales,64.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507041706_00010,receipt_missing_cancel,"3-way match, invoice before GR",CAPEX & SOCS,64.0,,2018-08-30 15:36:00,0.0,1.0,0.0,1.0
+4508048991_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,64.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507024217_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,63.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507035754_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,63.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507009115_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507014355_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014355_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507016428_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507016428_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507025417_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025438_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,62.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4508048991_00320,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,59.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507016428_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,58.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4508052598_00040,receipt_missing_cancel,"3-way match, invoice before GR",Sales,54.0,,2018-11-22 14:53:00,0.0,1.0,0.0,1.0
+4507009149_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,53.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507019864_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,53.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4508048991_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,51.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,48.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508065840_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,47.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00210,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,47.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00250,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,47.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507016428_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,46.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507016428_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,46.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507025473_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,45.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,45.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,45.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,45.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4508048991_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,44.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507026411_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,43.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4508057520_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,42.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507009149_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,40.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507016428_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,39.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4508057520_00260,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,39.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508065840_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,39.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507024217_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,38.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4508048991_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,38.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00180,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,38.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00190,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,38.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507009115_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,37.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,37.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507020973_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507025473_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,35.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4508057520_00230,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,34.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00240,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,34.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507019327_00100,receipt_missing_cancel,"3-way match, invoice before GR",Sales,32.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4508048991_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,32.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,32.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507009115_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507014355_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014355_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507015326_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507015326_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507025438_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025438_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025438_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025438_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025438_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507026434_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507026434_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507026434_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507035754_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507035754_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,31.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507016430_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,30.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4508057520_00180,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,30.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507014665_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00180,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507014665_00190,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,29.0,,2018-05-09 14:10:00,0.0,1.0,0.0,1.0
+4507020973_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507025461_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025461_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025461_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025461_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025473_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507025473_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,28.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507035108_00180,receipt_missing_cancel,"3-way match, invoice before GR",Packaging,27.0,,2018-08-09 10:43:00,0.0,1.0,0.0,1.0
+4508057520_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,26.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507025417_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,25.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025417_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,25.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507026411_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,25.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4508048991_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,25.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4507009115_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,24.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,24.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507019327_00150,receipt_missing_cancel,"3-way match, invoice before GR",Sales,24.0,,2018-10-26 11:02:00,0.0,1.0,0.0,1.0
+4507015326_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4508057520_00190,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00200,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00210,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508065840_00230,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00270,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,23.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507025461_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,22.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025461_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,22.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507025461_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,22.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4508065840_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,22.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,22.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507012059_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507024217_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507024217_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507024217_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507035754_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4507035754_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4508057520_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508065840_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00200,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00220,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00260,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,21.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507009115_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507009115_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507014355_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014499_00250,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-05-09 14:12:00,0.0,1.0,0.0,1.0
+4507015326_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507025438_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507026415_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,20.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4508048991_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508057520_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508065840_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,19.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508057520_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508065840_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00080,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,17.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508057520_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,16.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,16.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,16.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,16.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,16.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507012059_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00110,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00130,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00150,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00180,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00190,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00200,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00210,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00220,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00230,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00240,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00250,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00260,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00270,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,15.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4508048991_00300,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,14.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,12.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508048991_00120,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,12.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0
+4508057520_00250,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,12.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00220,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,11.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00270,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,11.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507012059_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00090,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507014355_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00050,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507014514_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507015326_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507015326_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-04-26 11:15:00,0.0,1.0,0.0,1.0
+4507025438_00070,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-06-07 13:13:00,0.0,1.0,0.0,1.0
+4507026434_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507026434_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507026434_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507026434_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-07-05 14:13:00,0.0,1.0,0.0,1.0
+4507035754_00060,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4508065840_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00180,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00190,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00240,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,10.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4507012059_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00030,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4507012059_00040,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-04-05 15:51:00,0.0,1.0,0.0,1.0
+4508057520_00160,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4508057520_00170,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,9.0,,2018-11-08 16:45:00,0.0,1.0,0.0,1.0
+4507020973_00020,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,8.0,,2018-06-07 13:11:00,0.0,1.0,0.0,1.0
+4507035754_00010,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,8.0,,2018-09-06 14:08:00,0.0,1.0,0.0,1.0
+4508065840_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,8.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508065840_00140,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,8.0,,2018-11-15 15:35:00,0.0,1.0,0.0,1.0
+4508048991_00100,receipt_missing_cancel,"3-way match, invoice before GR",Trading & End Products,6.0,,2018-10-04 16:50:00,0.0,1.0,0.0,1.0

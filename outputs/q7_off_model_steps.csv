@@ -1,0 +1,28 @@
+concept:name,misfit_items,share_of_misfit_items
+Cancel Invoice Receipt,5236,0.1372333176075903
+Vendor creates debit memo,5129,0.13442889343188133
+Change Quantity,4109,0.10769513026157153
+Change Price,2223,0.058263877968234
+Cancel Goods Receipt,1754,0.04597158882423861
+Change Delivery Indicator,1412,0.03700791529066415
+Change Approval for Purchase Order,1198,0.03139906693924621
+Release Purchase Order,626,0.016407191906484247
+Reactivate Purchase Order Item,363,0.009514074540022016
+Cancel Subsequent Invoice,338,0.00885883524663207
+Release Purchase Requisition,298,0.007810452377208156
+Block Purchase Order Item,234,0.0061330397861298945
+SRM: Created,149,0.003905226188604078
+SRM: Complete,149,0.003905226188604078
+SRM: Awaiting Approval,149,0.003905226188604078
+SRM: Document Completed,149,0.003905226188604078
+SRM: In Transfer to Execution Syst.,149,0.003905226188604078
+SRM: Ordered,149,0.003905226188604078
+SRM: Change was Transmitted,149,0.003905226188604078
+Record Subsequent Invoice,144,0.003774178329926089
+Change Storage Location,108,0.0028306337474445667
+Update Order Confirmation,48,0.0012580594433086963
+SRM: Deleted,11,0.00028830528909157624
+Set Payment Block,9,0.00023588614562038057
+Change Currency,8,0.00020967657388478272
+Change payment term,1,2.620957173559784e-05
+Change Final Invoice Indicator,1,2.620957173559784e-05

@@ -1,0 +1,18 @@
+from,to,times
+Record Invoice Receipt,Clear Invoice,104317
+Create Purchase Order Item,Vendor creates invoice,84892
+Record Goods Receipt,Record Invoice Receipt,82083
+Vendor creates invoice,Record Goods Receipt,80279
+Vendor creates invoice,Record Invoice Receipt,65730
+Record Goods Receipt,Vendor creates invoice,56895
+Create Purchase Order Item,Record Goods Receipt,51631
+Remove Payment Block,Clear Invoice,29194
+Create Purchase Requisition Item,Create Purchase Order Item,23308
+Record Invoice Receipt,Remove Payment Block,20359
+Create Purchase Order Item,Receive Order Confirmation,16137
+Receive Order Confirmation,Record Goods Receipt,11915
+Record Invoice Receipt,Record Goods Receipt,8835
+Record Goods Receipt,Remove Payment Block,8835
+Create Purchase Order Item,Delete Purchase Order Item,4807
+Receive Order Confirmation,Vendor creates invoice,4222
+Vendor creates invoice,Create Purchase Order Item,1804
